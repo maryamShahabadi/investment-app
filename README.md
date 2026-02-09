@@ -16,7 +16,7 @@ cd investment-app
 npm install
 ng serve
 
----
+
 
 ## 🧩 Built With
 
@@ -25,13 +25,13 @@ ng serve
 ![Signals](https://img.shields.io/badge/Signals-Experimental-orange)
 ![Angular CLI](https://img.shields.io/badge/Angular%20CLI-21.0.3-DD0031?logo=angular&logoColor=white)
 
----
+
 
 ## 🧠 Notes
 This project follows Angular’s standalone component architecture (no NgModules).    
 Built as part of my Angular learning journey (2025) to stay updated with the latest best practices in frontend development.
 
----
+
 
 ## 👩‍💻 Author
 **Maryam Shahabadi — Senior Angular Developer**  
@@ -40,13 +40,13 @@ Built as part of my Angular learning journey (2025) to stay updated with the lat
 🌐 [LinkedIn](https://www.linkedin.com/in/maryamshahabadi/)  
 💻 [GitHub](https://github.com/maryamShahabadi)
 
----
+
 
 ## 🧾 Credits
 This project is based on materials and examples from  
 🎓 [Maximilian Schwarzmüller’s Angular - The Complete Guide (2025 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular/)
 
----
+
 
 ## 📄 License
 
